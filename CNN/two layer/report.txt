@@ -1,0 +1,9 @@
+CNN two layer
+
+//max
+train acc: 0.92
+val acc: 0.81
+test acc:0.91
+
+cm =[[380,10]
+     [47,187]]

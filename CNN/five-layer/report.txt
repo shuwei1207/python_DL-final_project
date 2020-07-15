@@ -1,0 +1,9 @@
+CNN five layer
+
+//max
+train acc: 0.95
+val acc: 0.875
+test acc:0.92
+
+cm =[[379,11]
+     [44,190]]

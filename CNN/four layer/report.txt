@@ -1,0 +1,9 @@
+CNN four layer
+
+//max
+train acc: 0.925
+val acc: 0.81
+test acc:0.907
+
+cm =[[360,30]
+     [28,206]]

@@ -1,0 +1,9 @@
+CNN three layer
+
+//max
+train acc: 0.93
+val acc: 0.825
+test acc:0.93
+
+cm =[[378,12]
+     [32,202]]
